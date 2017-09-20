@@ -1,0 +1,11 @@
+{
+  "name": "des_zxd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cryptDes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zxdong@xh.vc",
+  "license": "ISC"
+}
